@@ -82,26 +82,4 @@ Shri Vaishnav Vidhyapeeth Vishwavidyalaya
 Indore, Madhya Pradesh
 
 License : 
-This project is developed strictly for educational purposes as part of the academic curriculum.
-
-⭐ Acknowledgement
-
-I would like to thank my faculty and institution for their guidance and support throughout the development of this project.
-
-🔥 Final Verdict
-
-✅ Professional
-✅ College Major Project Ready
-✅ GitHub Showcase Worthy
-
-Agar chaho to next main:
-
-📸 Screenshots section add kar dunga
-
-🧾 Resume ke liye short project description bana dunga
-
-🧠 Interview questions & explanation prepare karwa dunga
-
-🛡️ Admin/User login credentials section likh dunga
-
-Bas bolo 💪😄
+This project is developed strictly for educational
